@@ -52,3 +52,13 @@
     max-width: 100%;
     height: auto;
 }
+
+.minia {
+    border: solid black 2px;
+    width: 10%;
+    height: auto;
+}
+
+.minia:hover {
+    cursor: pointer;
+}
