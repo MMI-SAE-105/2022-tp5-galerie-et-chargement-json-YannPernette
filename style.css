@@ -18,8 +18,7 @@
     background-color: black;
     opacity: 90%;
     display: grid;
-    align-content: center;
-    justify-content: center;
+    place-content: center;
     }
 
 .overlay:hover {
